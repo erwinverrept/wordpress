@@ -1,4 +1,4 @@
-# Dit is de tweede werkende versie van het relais MQTT script voor de Raspberry Pi.
+#  Dit is de tweede werkende versie van het relais MQTT script voor de Raspberry Pi.
 
 # Importeer de benodigde bibliotheken
 import RPi.GPIO as GPIO
